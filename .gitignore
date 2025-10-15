@@ -1,0 +1,6 @@
+/venv
+/.vscode
+/.ipynb_checkpoints
+.DS_Store
+/data/learning_traces.csv
+/notebooks/.ipynb_checkpoints/demo_arrow-checkpoint.ipynb
